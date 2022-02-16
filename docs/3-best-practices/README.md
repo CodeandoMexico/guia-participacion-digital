@@ -1,12 +1,12 @@
 ---
-title: Best Practices
+title: Mejores prácticas
 ---
 
-# Best Practices
+# Mejores prácticas
 
-1. Successful public participation requires designing iteratively, in response to specific purposes and contexts.
-2. Grassroots participation leads to more relevant identification of impact goals and measurable indicators.
-3. Participatory processes are about letting go of preconceptions to learn from the wisdom of community members. This means being prepared to unlearn what has already been learned.
-4. It is always a good practice to have a backup plan in place while designing a participatory process. Changes in the context for decision making e.g: a reduced budget for implementing the decisions reached, increased or decreased political support for public participation, or new developments in the policy problem the process is addressing may demand a concurrent change in the scope or timeline for the participation process.
-5. While analyzing data, processing some numeric values in itself may not be sufficient to identify problems or desired actions to address them. So having quantitative data only may not capture or reveal all the complexities that may exist surrounding a problem. Having a mix of quantitative and qualitative that gathers people’s views, desires, and priorities can provide much deeper insights into the complexities involved.
-6. A participatory process should be designed to scale by default. There can be a case where it might not be completely possible to set or identify the exact purpose from the get-go and may change as the public participation process unfolds. So it is important to iteratively design and redesign the process to accommodate the change in scope or objectives.
+1. La participación pública exitosa requiere un diseño iterativo, en respuesta a propósitos y contextos específicos.
+2. La participación de base conduce a una identificación más relevante de objetivos de impacto e indicadores medibles.
+3. Los procesos participativos consisten en dejar de lado las ideas preconcebidas para aprender de la sabiduría de los miembros de la comunidad. Esto significa estar preparado para desaprender lo que ya se ha aprendido.
+4. Siempre es una buena práctica tener un plan de respaldo mientras se diseña un proceso participativo. Los cambios en el contexto para la toma de decisiones, por ejemplo: un presupuesto reducido para implementar las decisiones alcanzadas, un mayor o menor apoyo político para la participación pública, o nuevos desarrollos en el problema de política que aborda el proceso pueden exigir un cambio simultáneo en el alcance o el cronograma para la proceso de participación.
+5. Al analizar datos, el procesamiento de algunos valores numéricos en sí mismo puede no ser suficiente para identificar problemas o acciones deseadas para abordarlos. Por lo tanto, es posible que tener solo datos cuantitativos no capture o revele todas las complejidades que pueden existir en torno a un problema. Tener una combinación de aspectos cuantitativos y cualitativos que recopile los puntos de vista, los deseos y las prioridades de las personas puede proporcionar una visión mucho más profunda de las complejidades involucradas.
+6. Un proceso participativo debe diseñarse para escalar por defecto. Puede haber un caso en el que no sea completamente posible establecer o identificar el propósito exacto desde el principio y puede cambiar a medida que se desarrolla el proceso de participación pública. Por lo tanto, es importante diseñar y rediseñar iterativamente el proceso para acomodar el cambio en el alcance o los objetivos.

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Framework for Digitally enabled citizen-led participatory processes',
-  description: 'Prepared by Codeando México and Code for Pakistan as part of the Code for All Exchange Programme',
+  title: 'Guía para procesos digitales de participación ciudadana',
+  description: 'Elaborado por Codeando México y Code for Pakistan como parte del programa de intercambio de Code for All',
   theme: 'api',
   base: '/ppf/',
   plugins: [
