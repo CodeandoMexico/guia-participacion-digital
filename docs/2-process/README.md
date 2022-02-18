@@ -12,49 +12,49 @@ Las pautas y esta guía que se mencionan a continuación están diseñados desde
 
 ### Comprender el problema en cuestión
 
-The first step of the process is to understand the problem that needs to be addressed. Different kinds of problems or challenges call for different solution responses. Understanding the right problem will lead to the right solution ensuring that the pain points are solved.
+El primer paso del proceso es comprender el problema que debe abordarse. Diferentes tipos de problemas o desafíos requieren diferentes respuestas de solución. Comprender el problema correcto conducirá a la solución correcta, lo que garantizará que se resuelvan los puntos débiles.
 
 ### Identificando el objetivo
 
-Once the list of problems or challenges has been identified, the next step is to identify the actual purpose of conducting the activity. Complexities of these challenges need to be understood to decide WHAT is to be assessed. Having clear objectives will help in determining the expected outcomes of the activity. This will also lead to the development of evaluation criteria which can be used to measure the effectiveness and success of the activity.
+Una vez que se ha identificado la lista de problemas o desafíos, el siguiente paso es identificar el propósito real de realizar la actividad. Es necesario comprender las complejidades de estos desafíos para decidir QUÉ se evaluará. Tener objetivos claros ayudará a determinar los resultados esperados de la actividad. Esto también conducirá al desarrollo de criterios de evaluación que se pueden utilizar para medir la eficacia y el éxito de la actividad.
 
 ### Identificación de partes interesadas
 
-The participatory process needs to be designed with all the stakeholders, keeping the objectives and context in mind. All the key stakeholders should be involved across the steps or phases of a participatory process including people giving input, people being affected, people who will be taking action and the ones supporting the cause. Specific stakeholders may be involved in different ways at different steps or phases of the process. Identifying the appropriate stakeholders and how to involve them are questions that process designers must answer. The objectives of the activity can also help identify the role and the nature of engagement of stakeholders. E.g: validating a problem and its potential solution might involve people who are directly affected by the problem while finding out the feasibility of the potential solution might require subject matter experts or policymakers.
-This phase would also include collaborating with other organizations and subject matter experts to capitalize on each other's strengths to plan the process leading to the right solution. This also involves seeking out unheard voices and creating safe spaces that allow them to be heard. People often have the least say in decisions about their lives that are most affected by using the methods. A good way to identify some of the stakeholders is to answer the questions below:
+El proceso participativo debe diseñarse con todas las partes interesadas, teniendo en cuenta los objetivos y el contexto. Todas las partes interesadas clave deben participar en los pasos o fases de un proceso participativo, incluidas las personas que brindan información, las personas afectadas, las personas que tomarán medidas y las que apoyan la causa. Las partes interesadas específicas pueden participar de diferentes maneras en diferentes pasos o fases del proceso. Identificar a las partes interesadas apropiadas y cómo involucrarlas son preguntas que los diseñadores de procesos deben responder. Los objetivos de la actividad también pueden ayudar a identificar el papel y la naturaleza del compromiso de las partes interesadas. Por ejemplo: la validación de un problema y su solución potencial puede involucrar a personas que se ven directamente afectadas por el problema, mientras que descubrir la viabilidad de la solución potencial puede requerir expertos en la materia o formuladores de políticas.
+Esta fase también incluiría la colaboración con otras organizaciones y expertos en la materia para capitalizar las fortalezas de cada uno para planificar el proceso que conduzca a la solución correcta. Esto también implica buscar voces no escuchadas y crear espacios seguros que les permitan ser escuchadas. A menudo, las personas tienen menos voz en las decisiones sobre sus vidas que se ven más afectadas por el uso de los métodos. Una buena forma de identificar a algunas de las partes interesadas es responder las siguientes preguntas:
 
-1. Who might be affected (positively or negatively) by the development concern to be addressed?
-2. Who are the “voiceless” for whom special efforts may have to be made?
-3. Who are the representatives of those likely to be affected?
-4. Who is responsible for making sure that the end goal is achieved?
-5. Who can make what is intended more effective through their participation or less effective by their nonparticipation or outright opposition?
-6. Who can contribute financial and technical resources?
-7. Whose behavior has to change for the effort to succeed?
+1. ¿Quién podría verse afectado (positiva o negativamente) por el problema de desarrollo que se abordará?
+2. ¿Quiénes son los “sin voz” por quienes se deben hacer esfuerzos especiales?
+3. ¿Quiénes son los representantes de los que probablemente se verán afectados?
+4. ¿Quién es responsable de asegurarse de que se logre el objetivo final?
+5. ¿Quién puede hacer que lo que se pretende sea más efectivo a través de su participación o menos efectivo por su no participación o su oposición abierta?
+6. ¿Quién puede aportar recursos financieros y técnicos?
+7. ¿El comportamiento de quién tiene que cambiar para que el esfuerzo tenga éxito?
 
 ### Configurando el contexto
 
-Participatory processes enable complex interactions between contexts, grassroots aspirations and strategies, institutional structures, and enterprise interventions. The parties involved in planning and executing similar activities must ensure that these processes fit the context in which they are taking place. The general context can include broad social, demographic, political, technological, physical, and other features and trends in an organization’s environment. Whereas the specific context can refer to those parts of the organization’s task environment that are directly relevant to the achievement of the organization’s goals, including key stakeholders, applicable mandates, resource availability, and so on.
-Evaluating the right fit
-The next step is to evaluate whether conducting a participatory process can help solve a specific problem or add value that leads to the potential solution. In many cases where only quantitative feedback is required, there is a chance that conducting a simple survey might be a better alternative e.g: finding out the number of Covid-19 cases or the number of street lights installed on a particular street. On the other hand, a participatory process should be preferred if the expected output of activity is qualitative or a mix of both qualitative and quantitative e.g: how to control the after-effects of a pandemic or how can the lighting of a street be improved? In general, participation should be sought when it is required or when it is the only or most efficacious way of gaining one or more of the following: needed information, political support, legitimacy, or citizenship development.
+Los procesos participativos permiten interacciones complejas entre contextos, aspiraciones y estrategias de base, estructuras institucionales e intervenciones empresariales. Las partes involucradas en la planificación y ejecución de actividades similares deben asegurarse de que estos procesos se ajusten al contexto en el que se desarrollan. El contexto general puede incluir amplias características y tendencias sociales, demográficas, políticas, tecnológicas, físicas y de otro tipo en el entorno de una organización. Mientras que el contexto específico puede referirse a aquellas partes del entorno de tareas de la organización que son directamente relevantes para el logro de los objetivos de la organización, incluidas las partes interesadas clave, los mandatos aplicables, la disponibilidad de recursos, etc.
+Evaluación del ajuste adecuado
+El siguiente paso es evaluar si llevar a cabo un proceso participativo puede ayudar a resolver un problema específico o agregar valor que conduzca a la posible solución. En muchos casos en los que solo se requiere retroalimentación cuantitativa, existe la posibilidad de que realizar una encuesta simple sea una mejor alternativa, por ejemplo: averiguar la cantidad de casos de Covid-19 o la cantidad de farolas instaladas en una calle en particular. Por otro lado, se debe preferir un proceso participativo si el resultado esperado de la actividad es cualitativo o una combinación de cualitativo y cuantitativo, por ejemplo: ¿cómo controlar los efectos secundarios de una pandemia o cómo se puede mejorar la iluminación de una calle? En general, se debe buscar la participación cuando se requiera o cuando sea la única o la más eficaz forma de obtener uno o más de los siguientes: información necesaria, apoyo político, legitimidad o desarrollo ciudadano.
 
 ### Evaluación del ajuste adecuado
 
-The next step is to evaluate whether conducting a participatory process can help solve a specific problem or add value that leads to the potential solution. In many cases where only quantitative feedback is required, there is a chance that conducting a simple survey might be a better alternative e.g: finding out the number of Covid-19 cases or the number of street lights installed on a particular street. On the other hand, a participatory process should be preferred if the expected output of activity is qualitative or a mix of both qualitative and quantitative e.g: how to control the after-effects of a pandemic or how can the lighting of a street be improved? In general, participation should be sought when it is required or when it is the only or most efficacious way of gaining one or more of the following: needed information, political support, legitimacy, or citizenship development.
+El siguiente paso es evaluar si llevar a cabo un proceso participativo puede ayudar a resolver un problema específico o agregar valor que conduzca a la posible solución. En muchos casos en los que solo se requiere retroalimentación cuantitativa, existe la posibilidad de que realizar una encuesta simple sea una mejor alternativa, por ejemplo: averiguar la cantidad de casos de Covid-19 o la cantidad de farolas instaladas en una calle en particular. Por otro lado, se debe preferir un proceso participativo si el resultado esperado de la actividad es cualitativo o una combinación de cualitativo y cuantitativo, por ejemplo: ¿cómo controlar los efectos secundarios de una pandemia o cómo se puede mejorar la iluminación de una calle? En general, se debe buscar la participación cuando se requiera o cuando sea la única o la más eficaz forma de obtener uno o más de los siguientes: información necesaria, apoyo político, legitimidad o desarrollo ciudadano.
 
 ## Ejecución/Implementación
 
 ### Definición de los roles de las partes interesadas
 
-The stakeholder analysis provides an overview of all persons and interest groups, public and private agencies, and institutions who may have an interest in the planning or policy formulation process. It describes their interests and expectations. The following procedure may be followed to carry out the analysis:
+El análisis de las partes interesadas proporciona una visión general de todas las personas y grupos de interés, organismos públicos y privados e instituciones que pueden tener interés en el proceso de planificación o formulación de políticas. Describe sus intereses y expectativas. Para realizar el análisis se puede seguir el siguiente procedimiento:
 
-1. Identify all participants (persons, groups, organizations, etc.)
-2. Categorize the participants into broad groups such as beneficiaries, affected people, advocacy groups, experts, implementers, decision-makers, etc.
-3. Identify the characteristics, interests, potentials, and implications of involvement for each of those groups;
-4. Based on the analysis, identify potential roles for each group.
+1. Identificar a todos los participantes (personas, grupos, organizaciones, etc.)
+2. Clasificar a los participantes en grupos amplios, como beneficiarios, personas afectadas, grupos de defensa, expertos, implementadores, tomadores de decisiones, etc.
+3. Identificar las características, intereses, potencialidades e implicaciones de la participación de cada uno de esos grupos;
+4. Con base en el análisis, identificar los roles potenciales para cada grupo.
 
 ### Naturaleza de la participación
 
-Before you set out to engage your stakeholders, you need to determine the nature and form of their engagement. The engagement is generally divided into two major categories:
+Antes de comenzar a involucrar a sus partes interesadas, debe determinar la naturaleza y la forma de su compromiso. El compromiso generalmente se divide en dos categorías principales:
 
 #### Interacción indirecta
 

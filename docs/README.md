@@ -9,4 +9,4 @@ title: Guía para procesos digitales de participación ciudadana
 <br>
 
 <Button style="background-color: #1132f4 !important; border: 0px; text-transform: uppercase; color: #fff !important; font-weight: 700; letter-spacing: 2px;" to="/1-introduction/">Explorar la guía</Button>
-<Button style="background-color: #1132f4 !important; border: 0px; text-transform: uppercase; color: #fff !important; font-weight: 700; letter-spacing: 2px;" to="https://github.com/CodeandoMexico/ppf">Contribuír al proyecto</Button>
+<Button style="background-color: #1132f4 !important; border: 0px; text-transform: uppercase; color: #fff !important; font-weight: 700; letter-spacing: 2px;" to="https://github.com/CodeandoMexico/guia-participacion-digital">Contribuir al proyecto</Button>
