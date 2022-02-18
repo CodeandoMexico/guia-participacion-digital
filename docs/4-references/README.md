@@ -2,7 +2,7 @@
 title: Referencias
 ---
 
-# References
+# Referencias
 
 1. [MIT D-Lab User Research Framework](https://d-lab-dev.mit.edu/sites/default/files/inline-files/D-Lab%20Scale-Ups%20User%20Research%20Framework%201.2_0.pdf)
 2. [UNICEF Methodological Briefs - Participatory Approaches](https://www.unicef-irc.org/publications/pdf/brief_5_participatoryapproaches_eng.pdf)
